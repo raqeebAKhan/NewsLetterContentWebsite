@@ -24,7 +24,7 @@ This News Letter website is a static and responsive website. It consists of Home
 <img src=website_images/brief_info.png height="500px"/>
 <br/><br/>
 
-<img src=website_images/services.png.png height="500px"/>
+<img src=website_images/services.png height="500px"/>
 <br/><br/>
 
 <img src=website_images/prices.png height="500px"/>

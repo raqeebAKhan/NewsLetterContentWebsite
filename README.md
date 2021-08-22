@@ -15,3 +15,26 @@ This News Letter website is a static and responsive website. It consists of Home
 * JavaScript
 * Bootstrap
 
+
+## Screenshots of Website
+
+<img src=website_images/home.png height="500px"/>
+<br/><br/>
+
+<img src=website_images/brief_info.png height="500px"/>
+<br/><br/>
+
+<img src=website_images/services.png.png height="500px"/>
+<br/><br/>
+
+<img src=website_images/prices.png height="500px"/>
+<br/><br/>
+
+<img src=website_images/clients.png height="500px"/>
+<br/><br/>
+
+<img src=website_images/contact_us.png height="500px"/>
+<br/><br/>
+
+<img src=website_images/about_us.png height="500px"/>
+<br/><br/>
